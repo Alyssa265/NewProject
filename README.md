@@ -1,1 +1,1 @@
-# NewProject.github.io
+# NewProject
